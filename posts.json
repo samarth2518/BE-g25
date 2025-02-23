@@ -1,0 +1,51 @@
+[
+    {
+      "title": "The Rise of AI in India",
+      "content": "Artificial intelligence is revolutionizing India’s tech landscape. From chatbots in customer service to AI-driven medical diagnostics, India is rapidly adopting AI solutions.",
+      "author": "Rajesh Kumar",
+      "id": 0,
+      "date": "2025/01/29"
+    },
+    {
+      "title": "Coding Horror",
+      "content": "Jeff Atwood discusses programming, software development, and the human factors involved in creating software.",
+      "author": "Jeff Atwood",
+      "id": 1,
+      "date": "2025/02/07"
+    },
+    {
+      "title": "The Pragmatic Engineer",
+      "content": "Gergely Orosz provides detailed articles on software engineering practices, career advice, and industry trends.",
+      "author": "Gergely Orosz",
+      "id": 2,
+      "date": "2025/02/19"
+    },
+    {
+      "title": "India’s Ambition for Space: ISRO’s Future Missions",
+      "content": "After Chandrayaan and Gaganyaan, ISRO is aiming for more interplanetary missions. Will India be the next big player in space exploration?",
+      "author": "AstroPriya",
+      "id": 3,
+      "date": "2025/02/20"
+    },
+    {
+      "title": "Top 5 VS Code Extensions for Indian Developers",
+      "content": "Tools like Prettier, Live Server, and GitLens are widely used among Indian developers to streamline coding and debugging processes.",
+      "author": "DevAnkit",
+      "id": 4,
+      "date": "2025/02/18"
+    },
+    {
+      "title": "The Truth About Cars",
+      "content": "Founded by Robert Farago in 2002, this blog offers candid, unbiased automobile reviews and industry news.",
+      "author": "Robert Farago",
+      "id": 5,
+      "date": "2025/02/03"
+    },
+    {
+      "title": "College vs University",
+      "content": "Colleges typically specialize in specific fields of study, while universities offer a wider range of academic disciplines. Colleges are generally smaller in size with a limited student population, whereas universities are larger with a more diverse student body.",
+      "author": "Samarth Gupta",
+      "id": 6,
+      "date": "2025/2/23"
+    }
+  ]
